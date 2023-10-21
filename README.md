@@ -1,9 +1,9 @@
 ### Hey friends:
 
 ### Reach out to me on:
- ### Linkedin:
-  ###Email: systemsculptor@protonmail.com
- ### Stackoverflow:
+ Linkedin:
+ Email: systemsculptor@protonmail.com
+ Stackoverflow:
 
 
 Hire me for free! (I suck):
