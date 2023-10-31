@@ -1,9 +1,9 @@
 # Fullstack Embedded Systems Engineer
 
 ### Skills: 
-HTML, CSS, VUE, C++, PYTHON, JAVA
+HTML, CSS, VUE, C++, PYTHON, JAVA, RISC-V ASSEMBLY
 ### TOOLS:
-KICAD, VSCODE 
+KICAD, VSCODE, SOLIDWORKS, GENTOO
 
 
 ### BACKGROUND
