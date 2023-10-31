@@ -7,6 +7,7 @@ KICAD, VSCODE
 
 
 ##BACKGROUND
-EE
-CS
+EE - Electrical Engineering
+CS - Computer Science
+DS - Datascience 
 
