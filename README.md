@@ -1,4 +1,4 @@
-# Fullstack Embdedded Systems Engineer
+# Fullstack Embedded Systems Engineer
 
 ### Skills: 
 HTML, CSS, VUE, C++, PYTHON, JAVA
