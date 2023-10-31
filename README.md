@@ -6,7 +6,7 @@ HTML, CSS, VUE, C++, PYTHON, JAVA
 KICAD, VSCODE 
 
 
-##BACKGROUND
+## BACKGROUND
 EE - Electrical Engineering
 CS - Computer Science
 DS - Datascience 
