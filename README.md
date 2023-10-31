@@ -1,4 +1,4 @@
-### Fullstack Embdedded Systems Engineer
+# Fullstack Embdedded Systems Engineer
 
 ### Skills: 
 HTML, CSS, VUE, C++, PYTHON, JAVA
@@ -6,7 +6,7 @@ HTML, CSS, VUE, C++, PYTHON, JAVA
 KICAD, VSCODE 
 
 
-## BACKGROUND
+### BACKGROUND
 EE - Electrical Engineering
 CS - Computer Science
 DS - Datascience 
