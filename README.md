@@ -2,7 +2,7 @@
 (future)
 ### Skills: 
 HTML, CSS, VUE, C++, PYTHON, JAVA, RISC-V ASSEMBLY
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c++,asm,python,java)](https://skillicons.dev)
 ### TOOLS:
 KICAD, VSCODE, SOLIDWORKS, GENTOO
 
