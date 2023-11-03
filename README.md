@@ -1,9 +1,9 @@
 # Fullstack Embedded Systems Engineer
 (future)
-### Skills: 
+### Languages:
 ![My Skills](https://skillicons.dev/icons?i=html,css,cpp,py,java,vue,js)
-### TOOLS:
-KICAD, VSCODE, SOLIDWORKS, GENTOO [![My Skills](https://skillicons.dev/icons?i=linux)
+### Software:
+KICAD, VSCODE, SOLIDWORKS, GENTOO 
 
 
 ### BACKGROUND
