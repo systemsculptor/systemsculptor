@@ -12,3 +12,4 @@ CS - Computer Science
 (in the future)
 DS - Datascience 
 
+[![systemsculptor GitHub stats](https://github-readme-stats.vercel.app/api?username=systemsculptor)](https://github.com/systemsculptor/github-readme-stats)
