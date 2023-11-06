@@ -13,4 +13,4 @@ CS - Computer Science
 DS - Datascience 
 
 [![systemsculptor GitHub stats](https://github-readme-stats.vercel.app/api?username=systemsculptor)](https://github.com/systemsculptor/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=systemsculptor)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=systemsculptor)
