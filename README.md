@@ -3,7 +3,7 @@
 ### Languages:
 ![My Skills](https://skillicons.dev/icons?i=html,css,cpp,py,java,vue,js)
 ### Software:
-KICAD, VSCODE, SOLIDWORKS, GENTOO 
+KICAD, VSCODE, SOLIDWORKS, LINUX, QT5
 
 
 ### BACKGROUND
