@@ -1,6 +1,6 @@
 # Fullstack Embedded Systems Engineer
 ### Languages:
-![My Skills](https://skillicons.dev/icons?i=html,css,cpp,py,java,vue,js)
+![My Skills](https://skillicons.dev/icons?i=html,css,cpp,c,py,java,vue,js)
 ### Software:
 KICAD, VSCODE, FUSION 360, LINUX, QT5, DOCKER, OPENBOARDVIEW, LATEX
 
